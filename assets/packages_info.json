@@ -1,0 +1,8 @@
+{
+	"feature name" : ["feature description", ["urls for the feature"], "installer file name list, (dependencies first)"],
+	"ghdl": ["GHDL for VHDL Simulations", [""], [""]],
+	"verilator": [""],
+	"makerchip" : ["Used for Digital Circuit Simulation", ["https://github.com/FOSSEE/eSim/raw/installers/Windows/makerchip.7z"], ["makerchip.exe", "sandpiper-saas.exe"]], 
+	"sky130" : ["Skywater PDK", ["https://github.com/FOSSEE/eSim/raw/installers/Windows/makerchip.7z"], "sky130.exe"]
+
+}
